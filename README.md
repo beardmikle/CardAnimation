@@ -13,14 +13,3 @@ https://github.com/user-attachments/assets/4ec378cc-0302-464c-863e-f833c90ecfe5
 
 
 
-
-
-
-
-Some screenshots:
------------------
-![3](https://user-images.githubusercontent.com/11380960/236716500-f40c1cce-2b34-4a5d-b81a-8d7a82170ddb.png) ![1](https://user-images.githubusercontent.com/11380960/236716480-412e33ac-07a2-487b-b604-1c36031594ab.png)
-![2](https://user-images.githubusercontent.com/11380960/236716491-5b5860a2-1e18-4664-b7a6-0e9fca39484f.png)
-
-
-
