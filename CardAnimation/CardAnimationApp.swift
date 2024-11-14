@@ -9,12 +9,13 @@ import SwiftUI
 
 @main
 struct CardAnimationApp: App {
-    let persistenceController = PersistenceController.shared
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+//            CardAnim()
+//            DarkCardAnim()
+            ColorCardAnim()
+//            ColorCardShadowAnim()
         }
     }
 }

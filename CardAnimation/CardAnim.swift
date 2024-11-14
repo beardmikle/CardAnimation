@@ -20,7 +20,7 @@ struct CardAnim: View {
                         .stroke(lineWidth: 7)
                         .frame(width: 256, height: 336)
                 }
-            Text("Card White").bold()
+            Text("BRDMKL").bold()
                 .font(.largeTitle)
                 .foregroundStyle(.white)
                 
